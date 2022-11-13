@@ -2,16 +2,8 @@
 <h3 align="center"><img src="./keerthana.svg" href="http://keerthanak.netlify.app/"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=keerthanakrishnamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanakrishnamoorthy" /> </p>
-<br>
-- 🔭 I’m currently working on **Developing My Skills**
-- 🌱 I’m currently learning **Python**
-- 👯 I’m looking to collaborate on **Electrical & Programming Languages**
-- 📫 How to reach me **12keerthanak@gmail.com**
 
 ---
-
-
-
 
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaKrishnamoorthy&show_icons=true&theme=radical&layout=compact" alt="keerthanakrishnamoorthy" /></p>
