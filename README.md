@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **Electrical & Programming Languages**
 - 📫 How to reach me **12keerthanak@gmail.com**
-- ⚡ Fact **No Resistance Can Drop Our Potential**
+- ⚡**No Resistance Can Drop Our Potential**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=keerthanakrishnamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanakrishnamoorthy" /> </p>
 
